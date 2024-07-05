@@ -1,4 +1,5 @@
 # Hy,![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Jaweria
+## About Me
 - 🎓 I am currently enrolled in BSCS at Iqra University
 - 💼 I have experience in Python.
 - 👀 I’m Passionate About Leveraging Machine Learning, Python, and AI to Uncover Data-Driven Solutions
