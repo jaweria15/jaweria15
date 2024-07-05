@@ -1,4 +1,4 @@
-# Hy,![Waving Hand]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif)) I’m Jaweria
+# Hy,![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Jaweria
 ## About Me
 - 🎓 I am currently enrolled in BSCS at Iqra University
 - 💼 I have experience in Python.
