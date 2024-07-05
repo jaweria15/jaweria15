@@ -1,4 +1,4 @@
-:wave: Hi, I’m @jaweria15
+:wave: Hi, I’m Jaweria
 - 🎓 I am currently enrolled in BSCS at Iqra University
 - 💼 I have experience in Python.
 - 👀 I’m Passionate About Leveraging Machine Learning, Python, and AI to Uncover Data-Driven Solutions
